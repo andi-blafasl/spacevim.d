@@ -8,6 +8,7 @@
     - https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/SourceCodePro.zip
   - CascadiaCode (Caskaydia Cove)
     - https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/CascadiaCode.zip
+  - Sauce Code ist used in VIM, Caskaydia Cove is perfect replacement for Windows Terminal
 3. Clone this Repo to your $HOME
   - `git clone https://github.com/andi-blafasl/spacevim.d.git .SpaceVim.d`
 
