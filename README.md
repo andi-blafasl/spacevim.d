@@ -1,7 +1,7 @@
 # Installation of SpaceVim
 
 1. https://spacevim.org/quick-start-guide/
-  - Windows `https://spacevim.org/install.cmd`
+  - Windows https://spacevim.org/install.cmd
   - Linux `curl -sLf https://spacevim.org/install.sh | bash -s -- --install vim`
 2. Fonts https://www.nerdfonts.com/font-downloads
   - SourceCodePro (Sauce Code Pro)
