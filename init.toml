@@ -1,8 +1,8 @@
 #=============================================================================
-# basic.toml --- basic configuration example for SpaceVim
-# Copyright (c) 2016-2021 Wang Shidong & Contributors
-# Author: Wang Shidong < wsdjeg at 163.com >
-# URL: https://spacevim.org
+# init.toml --- based on a mix of basic and dark power configuration example for SpaceVim
+# Copyright (c) 2021 Andreas H. & Wang Shidong & Contributors
+# Author: Andreas H.
+# URL: https://github.com/andi-blafasl/spacevim.d
 # License: GPLv3
 #=============================================================================
 
@@ -22,7 +22,7 @@
     statusline_separator = "arrow"
     statusline_iseparator = "bar"
     buffer_index_type = 4
-    windows_index_type = 3
+    #windows_index_type = 3
     enable_tabline_filetype_icon = false
     enable_statusline_mode = true
     statusline_unicode = true
