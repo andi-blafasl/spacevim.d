@@ -29,6 +29,8 @@
     # Enable vim compatible mode, avoid changing origin vim key bindings
     vimcompatible = true
     relativenumber = false
+    # enable bootstrap function for case insensitive search
+    bootstrap_before = 'myspacevim#before'
 
 # Enable autocomplete layer
 [[layers]]
