@@ -53,3 +53,6 @@ default_height = 30
   name = "git"
   git_plugin = 'fugitive'
 
+[[layers]]
+    name = 'core'
+    filetree_show_hidden = true
