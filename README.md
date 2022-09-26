@@ -19,7 +19,7 @@
 2. add cmder config
   - `cmderr`
   - `cd config`
-  - `echo load(io.popen('oh-my-posh init cmd --config %USERPROFILE%/.SpaceVim.d/.mytheme.omp.json'):read("*a"))()>oh-my-posh.lua`
+  - `echo load(io.popen('oh-my-posh init cmd --config ^%USERPROFILE^%/.SpaceVim.d/.mytheme.omp.json'):read("*a"))()>oh-my-posh.lua`
 3. add git-bash config
   - `cd ~`
   - `echo eval "$(oh-my-posh init bash --config ~/.SpaceVim.d/.mytheme.omp.json)">>.bashrc`
